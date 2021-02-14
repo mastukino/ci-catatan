@@ -2,7 +2,7 @@
 Aplikasi Keuangan Berbasis Web Menggunakan Codeigniter kali ini menggunakan PHP, MySQL & Framework CodeIgniter. Mempermudah dalam melakukan penghitungan jumlah uang yang masuk dan keluar. Dan sangat cocok bagi kalian yang berada pada posisi keuangan. Pada project kali ini sudah siap digunakan untuk kepentingan di bagian Aplikasi Keuangan karena fitur yang dimiliki sudah terbilang sangat lengkap. Dan sudah dipastikan semua bagian berfungsi dengan normal dan tidak ada error pada semua bagian. Langsung saja kita bahas fitur fiturnya.
 
 # Aplikasi Catatan Keuangan Dibuat Dengan:
-- Code Igniter
+- CodeIgniter
 - Boostrap
 - Blade Template
 
