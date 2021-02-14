@@ -1,10 +1,10 @@
-# ci-catatan
-Aplikasi Catatan Keuangan By Serba Ngoding Dev
+# Aplikasi Manajemen Keuangan Harian
+Aplikasi Catatan Keuangan:
 Dibuat dengan
-Code Igniter
-Boostrap
-Blade Template
+- Code Igniter
+- Boostrap
+- Blade Template
+
 -- login --
 username = admin
 password = admin
-# ci-catatan
